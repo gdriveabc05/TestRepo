@@ -4,3 +4,14 @@ There was once a hare who was friends with a tortoise. One day, he challenged th
 Moral of the story:
 
 There are actually a couple of moral lessons we can learn from this story. The hare teaches that overconfidence can sometimes ruin you. While the tortoise teaches us about the power of perseverance. Even if all the odds are stacked against you, never give up. Sometimes life is not about who’s the fastest or the strongest, it’s about who is the most consistent.
+The command to list all branches in local and remote repositories is:
+
+$ git branch -a
+
+If you require only listing the remote branches from Git Bash then use this command:
+
+$ git branch -r
+
+You may also use the show-branch command for seeing the branches and their commits as follows:
+
+$ git show-branch
