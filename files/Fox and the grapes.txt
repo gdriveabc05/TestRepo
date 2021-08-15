@@ -3,4 +3,16 @@ Once there was a hungry pig who stumbled upon a vineyard. After seeing the round
 
 Moral of the Story:
 
-Most of us have the tendency to act like the fox. When we want something but think it’s too hard to attain, we make up excuses. We tell ourselves that it’s probably not that great instead of working hard for it.
+Most of us have the tendency to act like the fox. When we want something but think it’s too
+
+The command to list all branches in local and remote repositories is:
+
+$ git branch -a
+
+If you require only listing the remote branches from Git Bash then use this command:
+
+$ git branch -r
+
+You may also use the show-branch command for seeing the branches and their commits as follows:
+
+$ git show-branch
